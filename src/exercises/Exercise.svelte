@@ -16,7 +16,11 @@
   <h2>Products</h2>
   
   <!-- Add your code here to display the list of products -->
+
+  <h2>Shopping Cart</h2>
   
+  <!-- Add your shopping cart here -->
+
 </main>
 
 <style>
